@@ -15,6 +15,20 @@ Building of the Business Intelligence System has been an extensive **12 weeks** 
 
 We have completed quantifiably 95% of the code and have tried to design each diagram with utmost precision. This could have only been accomplished if all of us had worked together as a unit rather than individual members in disarray of each other. Upon this realization is where we started jumping over our problems and started coming up with solutions leading to us actually learning about software engineering and project management. 
 
+## Functionalities
+### Program Structure
+![Structure](./pic/pic7.png)
+### Menu
+![LoginMenu](./pic/pic1.png)
+### Authentication
+![Authentication](./pic/pic2.png)
+![Authentication2](./pic/pic3.png)
+### Option Menu
+![ManagerOption](./pic/pic4.png)
+![StaffOption](./pic/pic5.png)
+![CustomerOption](./pic/pic6.png)
+
+## Project Outcomes
 The question remains what are we taking away from this experience?  All of us have one common answer; we learnt how crucial **team work** and **team management** is to be successful in the industry. 
 This project was a micro-organism of a reallife scenario and if this gave us challenges, we have been enabled to get insight into what we should expect put tenfold. 
 We learnt how to effectively and clearly **demonstrate our ideas** to our team in order to have **productive meetings** and **utilize our time** to the maximum. 
